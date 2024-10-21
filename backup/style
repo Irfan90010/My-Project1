@@ -785,7 +785,7 @@ small {
     left: 20px;
     color: white;
     margin: 0;
-    font-size: 1rem; /* Adjust for smaller devices */
+    font-size: 1rem; 
 }
 
 .fa-phone {
@@ -858,19 +858,19 @@ small {
 
 
 .navbar-nav .nav-link {
-    font-size: 1rem; /* Adjust this if needed */
-    margin-right: 10px; /* Spacing between menu items */
+    font-size: 1rem; 
+    margin-right: 10px; 
 }
 
 @media (max-width: 768px) {
     .navbar-nav .nav-link {
         text-align: center;
         margin-right: 0;
-        padding: 10px 0; /* Add padding for better touch targets */
+        padding: 10px 0; 
     }
 
     .btn-success {
-        width: 100%; /* Make Sign In button full width on small screens */
+        width: 100%; 
         margin-top: 10px;
     }
 }
@@ -916,7 +916,7 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Box Container */
+
 .box-container {
     display: flex;
     flex-wrap: wrap;
@@ -944,7 +944,7 @@ body {
 
 
 
-/* Box styling */
+
 .box {
     /* color: white; */
     padding: 10px;
@@ -953,7 +953,7 @@ body {
 }
 
 
-/* Responsive design */
+
 @media (max-width: 768px) {
     .box {
         width: calc(50% - 20px); /* 2 boxes per row on tablets */
