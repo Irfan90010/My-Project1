@@ -1,0 +1,3474 @@
+.home {
+    height: 40px;
+    background-color: blue;
+    color: white;
+    width: 100%;
+
+}
+
+.home p {
+    width: 50%;
+    position: relative;
+    left:70px;
+    top: -15px;
+}
+ 
+.home .icon {
+    position:fixed;
+    position: relative;
+    margin-left: 87%;
+    bottom: 53px;
+   
+}
+
+.home .icon .fa-brands {
+    border: 2px solid white;
+    padding: 0px;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    position: relative;
+    bottom: 3px;
+    right: 80px;
+}
+
+.home .icon .fa-brands {
+    position: relative;
+    right: 10%;
+   
+}
+
+.home .fa-solid {    
+    width: 50%;
+    position: relative;
+    left: 53px;
+    top: 9px;
+}
+    
+.one {
+    width: 50%;
+    height: 113px;
+    margin: 0px;
+}
+
+.one .navbar {
+    width: 95%;
+    position: relative;
+    margin-left: 10%;
+    bottom: 40px;
+    left: 103%;
+    margin-inline-start: 10px;
+    
+}
+
+.one .navbar .nav1 {
+    border-bottom: 3px solid red;
+
+ 
+}
+.one .navbar .nav2 {
+    /* position: absolute;
+    content: '';
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 100%;
+    background-color: red; */
+    position: relative;
+    left: 5%;
+    
+}
+
+.one .navbar .nav3 {
+    position: relative;
+    left: 8%;
+}
+
+
+.one .navbar .nav4 {
+    position: relative;
+    left: 10%;
+}
+
+.one .navbar .nav5 {
+    position: relative;
+    left: 15%;
+}
+
+
+.one .btn{
+    position: relative;
+    margin-left: 100px;
+    right: 0%;
+    bottom: 205px;
+    
+}
+
+.one img {
+    position: relative;
+    top: 8px;
+    left: 40px;
+    padding: 0px;
+} 
+
+.second{
+    width: 100%;
+    height: 428px;
+}
+
+.second img {
+   width: 100%;
+   position: relative;
+    bottom: 35px;
+}
+
+.third {
+    margin: 0px;
+    height: 490px;
+    text-align: center;
+    width: 100%;
+    padding: 128px;
+
+
+}
+
+.third .loan h2 {
+    position: relative;
+    bottom: 80px;
+    color: rgba(39, 39, 252, 0.849);
+}
+
+.third h6 {
+    position: relative;
+    bottom: 20%;
+}
+
+.third p  {
+    position: relative;
+    bottom: 25%;
+}
+
+.third img {
+    position: relative;
+    bottom: 40px;
+    width: 40%;
+    border: 60% solid white;
+    padding: 3px;
+    border-radius: 100%;
+    background-color:rgba(25, 185, 248, 0.39);
+
+}
+
+.third .badge {
+    position:relative;
+    bottom: 60px;
+    background-color: brown;
+}
+
+.third .under {
+    position:relative;
+    bottom: 60px;
+}
+
+.four {
+    height: 652px;
+}
+
+.four h4 {
+    width: 100px;
+    color: rgba(39, 39, 252, 0.849);
+    position: relative;
+    bottom: 470px;
+    left: 52.3%;
+    margin-inline-start: 10px;
+
+}
+
+.four p {
+    width: 30%;
+    position: relative;
+    bottom: 473px;
+    left: 53%;
+}
+
+.four img {
+    width: 50%;
+    position: relative;
+    bottom: 0px;
+}
+
+.four .btn {
+    background-color: rgb(255, 123, 0);
+    position: relative;
+    left: 53%;
+    bottom: 475px;
+    color: white;   
+
+}
+.ashapura {
+    width: 99%;
+    height: 450px;
+    background-color: #578a965e;
+}
+
+.five {
+    margin: 0%;
+    height: 10px;
+    position: relative;
+    top: 600px;
+    text-align: center;
+    width: 100%;
+    padding: 80px;
+}
+
+.five .apply h4 {
+    color: rgba(39, 39, 252, 0.849);
+    text-align: center;
+    width: 100%;
+    position: relative;
+    bottom: 600px;  
+}
+
+.five img {
+    position: relative;
+    bottom: 550px;
+    width: 25%;
+    right: 20%;
+}
+
+.five h6 {
+    color: blue;
+    position: relative;
+    bottom: 600px;
+    left: 17%;
+}
+
+.five p {
+    /* background-color: #1C79E0; */
+    position: relative;
+    bottom: 600px;
+    left: 17%;
+}
+
+
+.five .a {
+    left: 21.2%;
+    bottom: 455%;
+}
+
+.five .b {
+    left: 25%;
+    bottom: 455%;
+}
+
+.five .c {
+    left: 38%;
+    bottom: 455%;
+}
+
+.five .d {
+    left: 32%;
+    bottom: 455%;
+}
+
+.five .e {
+    left: 25.9%;
+    bottom: 386%;
+}
+
+.five .f {
+    left: 29.2%;
+    bottom: 386%;
+}
+
+.five .g {
+    left: 28.5%;
+    bottom: 386%;
+}
+
+.five .h {
+    width: 50%;
+    left: 51.5%;
+    bottom: 386%;
+}
+
+.five .t {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+
+}
+
+.five .v {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+
+
+}
+
+.five .w {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 45px;
+
+
+}
+
+.five .x {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 405px;
+    right: 21%;
+
+}
+
+.five .y {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+}
+
+.five .z {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+}
+
+.six .neel {
+    width: 99%;
+}
+
+
+.six{
+    height: 485px;
+    width: 98%;
+}
+
+.six h3{
+    width: 99%;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: rgba(39, 39, 252, 0.849);
+}
+
+.six h4 {
+    width: 99%;
+    position: relative;
+    top: 25px;
+    text-align: center;
+}
+
+.neel img {
+    padding: 2%;
+    color: black;
+    background-color: orange;
+    width: 12%;
+    position: relative;
+    left: 10%;
+    top: 47px;
+}
+
+.six h1 {
+    position: relative;
+    top: 50px;
+}
+
+.six .i {
+   border-radius: 5px;
+   position: relative;
+   left: 80%;
+}
+
+.six .o {
+    border-radius: 5px;
+    position: relative;
+    left: 73%;
+}
+
+.six .s{
+    border-radius: 5px;
+    position: relative;
+    left: 64%;
+}
+
+.six .l {
+    border-radius: 5px;
+    position: relative;
+    left: 55%;
+}
+
+
+.six .m {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 30%;
+    top: 100%;
+}
+
+.six .k {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 20%;
+    top: 100%;
+}
+
+.six .u {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 11%;
+    top: 100%;
+}
+
+.six .n {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 3%;
+    top: 100%;
+}
+
+
+ .carousel .carousel-indicators {
+    position: relative;
+    bottom: -2px;
+
+}
+
+.carousel .carousel-indicators .active {
+    background-color: rgb(87, 80, 80);
+
+}
+
+.carousel .carousel-indicators .active1 {
+    background-color: rgb(255, 7, 7);
+}
+
+
+.carousel .carousel-indicators .active2 {
+    background-color: black;
+}
+
+.carousel .carousel-indicators .active3 {
+    background-color: black;
+} 
+
+
+
+
+.open {
+   width: 22%;
+   position: relative;
+   left: 7%;
+   top: 48px;
+}
+
+.fall {
+    width: 22%;
+    position: relative;
+    left: 389.3px;
+    bottom: 166px;
+}
+
+.up {
+    width: 22%;
+    position: relative;
+    left: 52.2%; 
+    bottom: 378px;
+}
+
+.down {
+    width: 22%;
+    position: relative;
+    left: 75%;
+    bottom: 592px;
+}
+
+
+.six h6 {
+    color: blue;
+    width: 65%;
+}
+
+small {
+    position: relative;
+    left: 0px;
+    bottom: 5px;
+}
+
+
+.six .bride img {
+    width: 90%;
+}
+
+.become {
+    height: 283px;
+    width: 100%;
+}
+.sami {
+    color: white;
+    width: 50%;
+    position: relative;
+    left: 44%;
+    bottom: 225px;
+}
+
+.sami .btn {
+    background-color: rgb(255, 123, 0);
+}
+
+.become img {
+    width: 100%;
+}
+
+.become h5 {
+    width: 50%;
+    position: relative;
+    bottom: 300px;
+}
+
+.become ul {
+    width: 50%;
+    position: relative;
+    bottom: 300px;
+}
+
+.head h1 {
+    position: relative;
+    bottom: 40px;
+    text-align: center;
+    color: rgba(39, 39, 252, 0.849);
+}
+
+.head img {
+    height: 100px;
+    width: 19%;
+}
+
+.grid {
+    height: 150px;
+    width: 100%;
+}
+
+
+.grid .import {
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 20px;
+}
+
+.active .image {
+    width: 5%;
+    height: 25px;
+    position: relative;
+    top: -216px;
+    left: 1225px;
+
+}
+
+.active {
+    height: 450px;
+}
+
+.active img {
+    position: relative;
+    top: 50px;
+   width: 100%  ;
+}
+
+.winter {
+    height: 0px;
+}
+
+
+.winter img {
+    position: relative;
+    bottom: 180px;
+    width: 15%;
+}
+
+.winter h6 {
+    position: relative;
+    bottom: 20px;
+    left: 65px;
+}
+
+.winter small {
+    position: relative;
+    bottom: 30px;
+    left: 65px;
+}
+
+
+.winter .kong {
+    background-color: white;
+    border-width: 10px;
+    border-right: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 2px;
+
+}
+
+.winter .rong {
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 2px;
+}
+
+.winter .zong {
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 2px;
+}
+
+.winter .inter {
+    width: 97%;
+    position: relative;
+    bottom: 212px;
+}
+
+
+.seven .contact {
+    height: 400px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+    margin: 0%;
+    width: 100%;
+}
+
+
+.contact .some {
+    position: relative;
+    top: 40px;
+}
+
+ .contact .free {
+    position: relative;
+    top: 40px;
+
+}
+
+.contact .value {
+    position: relative;
+    top: 40px;
+}
+
+
+.contact .middle {
+    position: relative;
+    top: 40px;
+} 
+
+.some p {
+    position: relative;
+    top: 20px;
+}
+
+.middle i {
+    position: relative;
+    right: 20px;
+    bottom: 27px;
+}
+
+
+.middle .number {
+     position: relative;
+     right: 220px;
+    bottom: 123px;
+}
+
+.middle .message {
+    position: relative;
+    right: 240px;
+    bottom: 100px;
+}
+
+.middle .location {
+    position: relative;
+    right: 257px;
+    bottom: 76px;
+}
+
+.seven h6 {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.some h5 {
+    position: relative;
+    top: 60px;
+}
+
+.some .butt {
+    position: relative;
+    top: 50px;
+}
+
+.middle .upon {
+    border-radius: 10px;
+    padding: 6px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact-info p {
+    position: relative;
+    left: 20px;
+    color: white;
+    margin: 0;
+    font-size: 1rem; /* Adjust for smaller devices */
+}
+
+.fa-phone {
+    position: relative;
+    left: 25px;
+}
+
+.sumit {
+    background-color: blue;
+}
+
+.d-flex {
+    color: white;
+    position: relative;
+    right: 10px;
+}
+
+.fab {
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+    background-color: white;
+}
+
+.fa-brands {
+    border-radius: 20px;
+    padding: 2px;
+    color: black;
+    background-color: white;
+}
+
+.fa-instagram {
+    position: relative;
+    right: 10px;
+}
+.fa-facebook {
+    position: relative;
+    right: 8px;
+}
+.fa-twitter {
+    position: relative;
+    right: 6px;
+}
+
+.fa-pinterest {
+    position: relative;
+    right: 4px;
+}
+.fa-youtube {
+    position: relative;
+    right: 2px;
+}
+
+
+
+@media (max-width: 768px) {
+    .contact-info {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-info p {
+        font-size: 0.9rem;
+    }
+    
+    .contact-info i {
+        margin-right: 5px;
+    }
+}
+
+
+.navbar-nav .nav-link {
+    font-size: 1rem; /* Adjust this if needed */
+    margin-right: 10px; /* Spacing between menu items */
+}
+
+@media (max-width: 768px) {
+    .navbar-nav .nav-link {
+        text-align: center;
+        margin-right: 0;
+        padding: 10px 0; /* Add padding for better touch targets */
+    }
+
+    .btn-success {
+        width: 100%; /* Make Sign In button full width on small screens */
+        margin-top: 10px;
+    }
+}
+
+ img {
+    width: 100%;
+ }
+
+ .carousel {
+    width: 100%;
+    color: red;
+    position: relative; 
+    top: 23px; 
+
+}
+
+.carousel-indicators .active {
+    background-color:  red;
+}
+
+.carousel-indicators .activeone {
+    background-color:  red;
+}
+
+.carousel-indicators .activetwo {
+    background-color:  red;
+}
+
+
+.carousel-indicators .activethree {
+    background-color:  red;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Box Container */
+.box-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 80px;
+    gap: 25px;
+}
+
+.response h2 {
+    text-align: center;
+    color: blue;
+    position: relative;
+    top: 40px;
+}
+
+.box-container img {
+     border-radius: 150px; 
+     background-color: rgba(0, 140, 255, 0.144); 
+     padding: 10px;
+}
+
+.box-container h6 {
+    color: rgba(0, 0, 255, 0.712);
+}
+
+
+
+/* Box styling */
+.box {
+    /* color: white; */
+    padding: 10px;
+    width: calc(25% - 20px);
+    text-align: center;
+}
+
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .box {
+        width: calc(50% - 20px); /* 2 boxes per row on tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .box {
+        width: 100%; /* 1 box per row on mobile devices */
+    }
+}
+
+
+
+/* Reset and Box Sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Container for about section */
+.about-us {
+    width: 100%;
+    padding: 20px;
+}
+
+.about-image {
+    width: 50%;
+}
+
+/* Flex container for the About Us content */
+.about-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+
+/* About Us image style */
+.about-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* About Us text section */
+.about-text {
+    flex: 1;
+    max-width: 600px;
+}
+
+.about-text h2 {
+    color: blue;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.about-text .years {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #F36F0C; /* You can adjust the color */
+}
+
+.about-text .description {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.about-text .read-more {
+    padding: 10px 20px;
+    background-color: #F36F0C;
+    color: white;
+    /* text-decoration: none; */
+    border-radius: 5px;
+    /* font-weight: bold; */
+    transition: background-color 0.3s ease;
+}
+
+.about-text .read-more:hover {
+    background-color: #E04E00;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+    .about-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .about-text h2 {
+        font-size: 1.6rem;
+    }
+
+    .about-text .description {
+        font-size: 0.9rem;
+    }
+
+    .about-text .read-more {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-text h2 {
+        font-size: 1.4rem;
+    }
+
+    .about-text .years {
+        font-size: 1rem;
+    }
+
+    .about-text .description {
+        font-size: 0.85rem;
+    }
+
+    .about-text .read-more {
+        font-size: 0.85rem;
+    }
+}
+
+
+
+
+
+/* .why-choose-us {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.why-choose-us h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Flex container for feature boxes */
+/* .features-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+} */
+
+/* Each feature box */
+/* .feature-box {
+    position: relative;
+    width: 25%;
+    padding: 20px;
+    background-color: rgba(0, 119, 255, 0.151);
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+.feature-box img {
+    width: 50%;
+    height: 80px;
+    position: relative;
+    right: 80px;
+    top: 22px;
+} */
+
+
+/* Heading and text inside each box */
+/* .feature-box h3 {
+    width: 72%;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 45px;
+    left: 85px;
+}
+
+.feature-box small {
+    margin: 0;
+    position: relative;
+    bottom: 55px;
+    left: 55px;
+}
+
+
+.feature-box .line {
+    position: absolute;
+    width: 2px;
+    height: 80px;
+    background-color: #1C79E0; 
+    left: 100%;
+    top: 50px;
+    transform: translateX(-50%);
+}
+
+.feature-box .a {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .b {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .c {
+    width: 50%;
+    position: relative;
+    left: 40%;
+}
+
+.feature-box .d {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .e {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .f {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .g {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .h {
+    width: 50%;
+    position: relative;
+    left: 54%;
+}
+
+.feature-box .i {
+    position: relative;
+    left: 70px;
+}
+
+.feature-box .j {
+    position: relative;
+    left: 75px;
+}
+
+
+.feature-box .k {
+    position: relative;
+    left: 72px;
+}
+
+.feature-box .l {
+    
+}
+
+
+.feature-box .m {
+    
+}
+
+
+.feature-box .n {
+    
+}
+
+.feature-box .o {
+    
+}
+
+
+.feature-box .p {
+    
+} */
+
+/* Responsive breakpoints */
+/* @media (max-width: 992px) {
+    .feature-box {
+        width: 48%; 
+    }
+}
+
+@media (max-width: 768px) {
+    .feature-box {
+        width: 50%; 
+    }
+}  */
+
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1, h2, h3, p {
+    text-align: center;
+    color: #333;
+}
+
+.header h1 {
+    color: blue;
+}
+
+
+
+.header h4 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+}
+
+
+
+.header {
+    /* background-color: #FF6600; */
+    padding: 40px;
+    color: white;
+    border-radius: 10px;
+}
+.steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;   
+}
+.step {
+    /* background-color: white; */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+
+}
+.step:hover {
+    transform: translateY(-10px);
+}
+.step .haider {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+    /* margin-bottom: 20px; */
+    position: relative;
+    left: 50px;
+    top: -5px;
+}
+
+.step h2 {
+    color:  rgba(0, 0, 0, 0.199);
+}
+
+.step h5 {
+    color: blue;
+}
+
+.step img {
+    width: 107%;
+    position: relative;
+    right: 18px;
+    top: 20px;
+
+}
+.step h3 {
+    /* color: #FF6600; */
+    margin-bottom: 5px;
+}
+
+.step h2 {
+    position: relative;
+    right: 45px;
+}
+
+.step h5 {
+    position: relative;
+    right: 32px;
+}
+
+.step small {
+    position: relative;
+    right: 25px;
+}
+
+.step .a {
+  
+}
+
+
+.step .b {
+    position: relative;
+    right: 45px;
+    
+}
+
+
+.step .c {
+    position: relative;
+    right: 65px;
+}
+
+
+.step .d {
+    
+}
+
+
+.step .e {
+    
+}
+
+
+.step .f {
+    position: relative;
+    right: 15px;
+    
+}
+
+
+.step .g {
+    
+}
+
+
+.step .h {
+   position: relative;
+   right: 12px; 
+}
+
+
+.final-info {
+    margin-top: 40px;
+    text-align: left;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 768px) {
+    .steps {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+
+
+/* .eight {
+    position: relative;
+    top: 100px;
+}
+
+
+.eight img {
+    width: 200%;
+}
+
+.eight h5 {
+    position: relative;
+    bottom: 300px;
+    left: 10px;
+}
+
+
+
+.eight ul {
+    position: relative;
+    bottom: 300px;
+}
+
+.eight .inter {
+    position: relative;
+    right: 150px;
+    top: 50px;
+}
+
+.inter h1 {
+    color: white;
+}
+
+.inter h2 {
+    color: white;
+    position: relative;
+    right: 50px;
+}
+
+.inter h4 {
+    color: white;
+    position: relative;
+    left: 40px;
+}
+
+.inter .btn {
+    position: relative;
+    
+    top: 100px;
+}
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.home {
+    height: 40px;
+    background-color: blue;
+    color: white;
+    width: 100%;
+
+}
+
+.home p {
+    width: 50%;
+    position: relative;
+    left:70px;
+    top: -15px;
+}
+ 
+.home .icon {
+    position:fixed;
+    position: relative;
+    margin-left: 87%;
+    bottom: 53px;
+   
+}
+
+.home .icon .fa-brands {
+    border: 2px solid white;
+    padding: 0px;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    position: relative;
+    bottom: 3px;
+    right: 80px;
+}
+
+.home .icon .fa-brands {
+    position: relative;
+    right: 10%;
+   
+}
+
+.home .fa-solid {    
+    width: 50%;
+    position: relative;
+    left: 53px;
+    top: 9px;
+}
+    
+.one {
+    width: 50%;
+    height: 113px;
+    margin: 0px;
+}
+
+.one .navbar {
+    width: 95%;
+    position: relative;
+    margin-left: 10%;
+    bottom: 40px;
+    left: 103%;
+    margin-inline-start: 10px;
+    
+}
+
+.one .navbar .nav1 {
+    border-bottom: 3px solid red;
+
+ 
+}
+.one .navbar .nav2 {
+    position: relative;
+    left: 5%;
+    
+}
+
+.one .navbar .nav3 {
+    position: relative;
+    left: 8%;
+}
+
+
+.one .navbar .nav4 {
+    position: relative;
+    left: 10%;
+}
+
+.one .navbar .nav5 {
+    position: relative;
+    left: 15%;
+}
+
+
+.one .btn{
+    position: relative;
+    margin-left: 100px;
+    right: 0%;
+    bottom: 205px;
+    
+}
+
+.one img {
+    position: relative;
+    top: 8px;
+    left: 40px;
+    padding: 0px;
+} 
+
+.second{
+    width: 100%;
+    height: 428px;
+}
+
+.second img {
+   width: 100%;
+   position: relative;
+    bottom: 35px;
+}
+
+.third {
+    margin: 0px;
+    height: 490px;
+    text-align: center;
+    width: 100%;
+    padding: 128px;
+
+
+}
+
+.third .loan h2 {
+    position: relative;
+    bottom: 80px;
+    color: rgba(39, 39, 252, 0.849);
+}
+
+.third h6 {
+    position: relative;
+    bottom: 20%;
+}
+
+.third p  {
+    position: relative;
+    bottom: 25%;
+}
+
+.third img {
+    position: relative;
+    bottom: 40px;
+    width: 40%;
+    border: 60% solid white;
+    padding: 3px;
+    border-radius: 100%;
+    background-color:rgba(25, 185, 248, 0.39);
+
+}
+
+.third .badge {
+    position:relative;
+    bottom: 60px;
+    background-color: brown;
+}
+
+.third .under {
+    position:relative;
+    bottom: 60px;
+}
+
+.four {
+    height: 652px;
+}
+
+.four h4 {
+    width: 100px;
+    color: rgba(39, 39, 252, 0.849);
+    position: relative;
+    bottom: 470px;
+    left: 52.3%;
+    margin-inline-start: 10px;
+
+}
+
+.four p {
+    width: 30%;
+    position: relative;
+    bottom: 473px;
+    left: 53%;
+}
+
+.four img {
+    width: 50%;
+    position: relative;
+    bottom: 0px;
+}
+
+.four .btn {
+    background-color: rgb(255, 123, 0);
+    position: relative;
+    left: 53%;
+    bottom: 475px;
+    color: white;   
+
+}
+.ashapura {
+    width: 99%;
+    height: 450px;
+    background-color: #578a965e;
+}
+
+.five {
+    margin: 0%;
+    height: 10px;
+    position: relative;
+    top: 600px;
+    text-align: center;
+    width: 100%;
+    padding: 80px;
+}
+
+.five .apply h4 {
+    color: rgba(39, 39, 252, 0.849);
+    text-align: center;
+    width: 100%;
+    position: relative;
+    bottom: 600px;  
+}
+
+.five img {
+    position: relative;
+    bottom: 550px;
+    width: 25%;
+    right: 20%;
+}
+
+.five h6 {
+    color: blue;
+    position: relative;
+    bottom: 600px;
+    left: 17%;
+}
+
+.five p {
+    position: relative;
+    bottom: 600px;
+    left: 17%;
+}
+
+
+.five .a {
+    left: 21.2%;
+    bottom: 455%;
+}
+
+.five .b {
+    left: 25%;
+    bottom: 455%;
+}
+
+.five .c {
+    left: 38%;
+    bottom: 455%;
+}
+
+.five .d {
+    left: 32%;
+    bottom: 455%;
+}
+
+.five .e {
+    left: 25.9%;
+    bottom: 386%;
+}
+
+.five .f {
+    left: 29.2%;
+    bottom: 386%;
+}
+
+.five .g {
+    left: 28.5%;
+    bottom: 386%;
+}
+
+.five .h {
+    width: 50%;
+    left: 51.5%;
+    bottom: 386%;
+}
+
+.five .t {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+
+}
+
+.five .v {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+
+
+}
+
+.five .w {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 45px;
+
+
+}
+
+.five .x {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 405px;
+    right: 21%;
+
+}
+
+.five .y {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+}
+
+.five .z {
+    padding: 2px;
+    height: 60px;
+    position: relative;
+    bottom: 540px;
+    left: 40px;
+}
+
+.six .neel {
+    width: 99%;
+}
+
+
+.six{
+    height: 485px;
+    width: 98%;
+}
+
+.six h3{
+    width: 99%;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: rgba(39, 39, 252, 0.849);
+}
+
+.six h4 {
+    width: 99%;
+    position: relative;
+    top: 25px;
+    text-align: center;
+}
+
+.neel img {
+    padding: 2%;
+    color: black;
+    background-color: orange;
+    width: 12%;
+    position: relative;
+    left: 10%;
+    top: 47px;
+}
+
+.six h1 {
+    position: relative;
+    top: 50px;
+}
+
+.six .i {
+   border-radius: 5px;
+   position: relative;
+   left: 80%;
+}
+
+.six .o {
+    border-radius: 5px;
+    position: relative;
+    left: 73%;
+}
+
+.six .s{
+    border-radius: 5px;
+    position: relative;
+    left: 64%;
+}
+
+.six .l {
+    border-radius: 5px;
+    position: relative;
+    left: 55%;
+}
+
+
+.six .m {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 30%;
+    top: 100%;
+}
+
+.six .k {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 20%;
+    top: 100%;
+}
+
+.six .u {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 11%;
+    top: 100%;
+}
+
+.six .n {
+    color: rgba(0, 0, 0, 0.144);
+    position: relative;
+    left: 3%;
+    top: 100%;
+}
+
+
+ .carousel .carousel-indicators {
+    position: relative;
+    bottom: -2px;
+
+}
+
+.carousel .carousel-indicators .active {
+    background-color: rgb(87, 80, 80);
+
+}
+
+.carousel .carousel-indicators .active1 {
+    background-color: rgb(255, 7, 7);
+}
+
+
+.carousel .carousel-indicators .active2 {
+    background-color: black;
+}
+
+.carousel .carousel-indicators .active3 {
+    background-color: black;
+} 
+
+
+
+
+.open {
+   width: 22%;
+   position: relative;
+   left: 7%;
+   top: 48px;
+}
+
+.fall {
+    width: 22%;
+    position: relative;
+    left: 389.3px;
+    bottom: 166px;
+}
+
+.up {
+    width: 22%;
+    position: relative;
+    left: 52.2%; 
+    bottom: 378px;
+}
+
+.down {
+    width: 22%;
+    position: relative;
+    left: 75%;
+    bottom: 592px;
+}
+
+
+.six h6 {
+    color: blue;
+    width: 65%;
+}
+
+small {
+    position: relative;
+    left: 0px;
+    bottom: 5px;
+}
+
+
+.six .bride img {
+    width: 90%;
+}
+
+.become {
+    height: 283px;
+    width: 100%;
+}
+.sami {
+    color: white;
+    width: 50%;
+    position: relative;
+    left: 44%;
+    bottom: 225px;
+}
+
+.sami .btn {
+    background-color: rgb(255, 123, 0);
+}
+
+.become img {
+    width: 100%;
+}
+
+.become h5 {
+    width: 50%;
+    position: relative;
+    bottom: 300px;
+}
+
+.become ul {
+    width: 50%;
+    position: relative;
+    bottom: 300px;
+}
+
+.head h1 {
+    position: relative;
+    bottom: 40px;
+    text-align: center;
+    color: rgba(39, 39, 252, 0.849);
+}
+
+.head img {
+    height: 100px;
+    width: 19%;
+}
+
+.grid {
+    height: 150px;
+    width: 100%;
+}
+
+
+.grid .import {
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 20px;
+}
+
+.active .image {
+    width: 5%;
+    height: 25px;
+    position: relative;
+    top: -216px;
+    left: 1225px;
+
+}
+
+.active {
+    height: 450px;
+}
+
+.active img {
+    position: relative;
+    top: 50px;
+   width: 100%  ;
+}
+
+.winter {
+    height: 0px;
+}
+
+
+.winter img {
+    position: relative;
+    bottom: 180px;
+    width: 15%;
+}
+
+.winter h6 {
+    position: relative;
+    bottom: 20px;
+    left: 65px;
+}
+
+.winter small {
+    position: relative;
+    bottom: 30px;
+    left: 65px;
+}
+
+
+.winter .kong {
+    background-color: white;
+    border-width: 10px;
+    border-right: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 2px;
+
+}
+
+.winter .rong {
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 2px;
+}
+
+.winter .zong {
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 2px;
+}
+
+.winter .inter {
+    width: 97%;
+    position: relative;
+    bottom: 212px;
+}
+
+
+.seven .contact {
+    height: 400px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+    margin: 0%;
+    width: 100%;
+}
+
+
+.contact .some {
+    position: relative;
+    top: 40px;
+}
+
+ .contact .free {
+    position: relative;
+    top: 40px;
+
+}
+
+.contact .value {
+    position: relative;
+    top: 40px;
+}
+
+
+.contact .middle {
+    position: relative;
+    top: 40px;
+} 
+
+.some p {
+    position: relative;
+    top: 20px;
+}
+
+.middle i {
+    position: relative;
+    right: 20px;
+    bottom: 27px;
+}
+
+
+.middle .number {
+     position: relative;
+     right: 220px;
+    bottom: 123px;
+}
+
+.middle .message {
+    position: relative;
+    right: 240px;
+    bottom: 100px;
+}
+
+.middle .location {
+    position: relative;
+    right: 257px;
+    bottom: 76px;
+}
+
+.seven h6 {
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.some h5 {
+    position: relative;
+    top: 60px;
+}
+
+.some .butt {
+    position: relative;
+    top: 50px;
+}
+
+.middle .upon {
+    border-radius: 10px;
+    padding: 6px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 60px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ body { 
+    width: 100%;  
+}
+
+
+
+
+/* .image-one {
+    height: 40px;
+    background-color: blue;
+    color: white;
+}
+
+.image-one .fa-phone {
+    position: relative;
+    left: 50px;
+    top: 8px;
+}
+
+.image-one p {
+    width: 50%;
+    position: relative;
+    bottom: 15px;
+    left: 65px;
+}
+
+
+.icon {
+    position:absolute;
+    left: 85%;
+    top: 8px;
+   
+} 
+
+.icon .fa-brands {
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+}
+
+
+.two {
+    width: 100%;
+    height: 80px;
+}
+
+.two img{
+    position: absolute;
+    left: 35px;
+    top: 5px;
+}
+
+.two .two-one {
+    position: absolute;
+    left: 53.20%;
+    top: 10%;
+    background-color: none;
+}
+
+.two .navbar-brand img {
+    width: 17%  ;
+    height: 70px;
+}
+
+.two .collapse {
+    white-space: nowrap;
+    font-size: 17px;
+    color: black;
+    position: absolute;
+    left: 60%;
+    height: 230%;
+    bottom: -75%;
+}
+
+.two .btn {
+    white-space: nowrap;
+    position: absolute;
+    left: 400px;
+    height: 40px;
+    top: 30px;
+}
+
+
+.two .collapse .one{
+    color: black;
+    position: absolute;
+    right: 90px;
+
+}
+
+.two .collapse .two {
+    color: black;
+    position: absolute;
+    right: 40px;
+}
+
+.two .collapse .three {
+    color: black;
+    position: absolute;
+    left: 65px;
+}
+
+.two .collapse .four {
+    color: black;
+    position: absolute;
+    left: 200px;
+}
+
+.two .collapse .five {
+    color: black;
+    position: absolute;
+    left: 280px;
+}
+
+.three {
+    width: 100%
+}
+
+.carousel {
+    width: 100%;
+    color: red;
+    position: relative; 
+    top: 35px; 
+
+}
+
+.carousel-indicators .active {
+    background-color:  red;
+}
+
+.carousel-indicators .activeone {
+    background-color:  red;
+}
+
+.carousel-indicators .activetwo {
+    background-color:  red;
+}
+
+
+.carousel-indicators .activethree {
+    background-color:  red;
+}
+
+.four {
+    width: 100%;
+    position: relative;
+    height: 600px;
+}
+
+.four h2 {
+    color: blue;
+    width: 50%;
+   position: relative;
+   left: 40%;
+   top: 50px;
+}
+
+.four .container {
+    position: relative;
+    top: 100px;
+}
+.four img {
+    background-color: rgba(0, 89, 255, 0.212);
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 90px;
+    height: 150px;
+}
+
+.four p {
+    font-size: 12px;
+    position: relative;
+    left: 40px;
+}
+
+.four .a {
+    position: relative;
+    left: 35px;
+}
+
+.four .b {
+    position: relative;
+    left: 15px;
+}
+
+
+.four .c {
+    position: relative;
+    left: 18px;
+}
+
+
+.four .d {
+    position: relative;
+    left: 37px;
+}
+
+.four .badge {
+    position: relative;
+    left: 25px;
+    bottom: 10px;
+}
+
+.five {
+    position: relative;
+    width: 97%;
+    height: 650px;
+}
+
+ .five img {
+    width: 100%;
+}
+
+
+ .five h4{
+    color: blue;
+    position: relative;
+    top: 100px;
+    left: 10%;
+    width: 50%;
+}
+
+ .five p {
+    position: relative;
+    top: 20%;
+    left: 10%;
+    width: 96%;
+}
+
+.five .btn {
+    position: relative;
+    left: 10%;
+    top: 20%;
+    background: orange;
+}
+
+/* .inside h4 {
+    align-items: center;
+} */
+
+
+/* .allow {
+    position: relative;
+    top: 45px;
+}
+
+.six {
+    width: 100%;
+    background-color: rgba(0, 89, 255, 0.212);
+    position: relative;
+    height: 425px;
+}
+
+.six img {
+    color:red;
+    width: 80px;
+}
+
+.six h6 {
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+    width: 50%;
+}
+
+.six h4 {
+    text-align: center;
+    position: relative;
+    top: 25px;
+    color: blue;
+}
+
+.six p {
+    position: relative;
+    bottom: 60px;
+    left: 90px;
+    width: 72%;
+}
+
+.six .badge-one {
+    width: 100px;
+    color: blue;
+}
+
+/* .vl {
+    border-left: 6px solid  rgba(0, 0, 255, 0.205);
+    height: 100px;
+    position: relative;
+    left: 255px;
+    bottom: 135px;
+  
+}
+ 
+
+.vl-three {
+    position: relative;
+    bottom: 10px;
+}
+
+#vl {
+    border-left: 6px solid  rgba(0, 0, 255, 0.205);
+    height: 100px;
+    position: relative;
+    left: 255px;
+    bottom: 155px;
+} */
+
+/* .seven h1 {
+    color: rgba(0, 0, 0, 0.123);
+}
+
+
+
+.seven {
+    width: 100%;
+    position: relative;
+    height: 600px;
+    top: 80px;
+}
+
+.seven h3 {
+    text-align: center;
+    color: blue;
+}
+
+.seven h4 {
+    text-align: center;
+} 
+
+.seven .i {
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+    height: 12%;
+    width: 14%;
+    left: 60%;
+    bottom: 14%;
+    background-color: orange;
+}
+
+.seven img {
+    position: relative;
+    width: 100%;
+    bottom: 20px;
+}
+
+.seven .down {
+    position: relative;
+    top: 35px;
+}
+
+
+.seven h5 {
+    position: relative;
+    bottom: 40px;
+    color: blue;
+}
+
+.seven small {
+    position: relative;
+    bottom: 45px;
+}
+
+
+.eight {
+    width: 100%;
+}
+
+
+.eight img {
+    width: 200%;
+}
+
+.eight h5 {
+    position: relative;
+    bottom: 55%;
+}
+
+.eight ul {
+    position: relative;
+    bottom: 55%;
+}
+
+
+.eight .inter {
+    color: white;
+    position: relative;
+    top: 40px;
+    right: 8%;
+}
+
+.eight .btn {
+    color: white;
+    background-color: orange;
+}
+
+.nine {
+    width: 100%;
+    position: relative;
+    bottom: 100px;
+}
+
+
+.nine img {
+    width: 19%;
+    position: relative;
+    top: 20px;
+}
+
+.nine .import {
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 15px;
+}
+
+.nine-smooth h1 {
+    color: blue;
+    text-align: center;
+}
+
+.ten {
+    width: 100%;
+}
+
+.ten-twenty img {
+    width: 100%;
+}
+
+.ten-twenty .image {
+    background-color: none;
+    width: 5%;
+    position: relative;
+    left: 93.5%;
+    bottom: 290px;
+}
+
+.ten .s {
+    background-color: white;
+    border-radius: 12px;
+    padding: 100px;
+    height: 50px;
+}
+
+.ten .t {
+    border-radius: 12px;
+    background-color: white;
+    padding: 100px;
+    height: 50px;
+}
+
+.ten .k {
+    border-radius: 12px;
+    background-color: white;
+    padding: 100px;
+    height: 50px;
+}
+
+.s img {
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+    right: 85px;
+}
+
+.t img {
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+}
+
+.k img {
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+}
+
+.k h6 {
+    color: black;
+}
+
+.ten .with {
+    position: relative;
+    bottom: 290px;
+    width: 100%;
+}
+
+.ten h6 {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.s small {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.t small {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.k small {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.elhavn {
+    width: 100%;
+    background-color: rgb(0, 102, 255);
+    position: relative;
+    bottom: 50px;
+    height: 450px;
+}
+
+.elhavn .somebody {
+    color: white;
+    position: relative;
+    top: 50px;
+}
+
+.somebody .number{
+    padding: 2px;
+    background-color: orange;
+    position: relative;
+    right: 222px;
+    bottom: 120px;
+    height: 20px;
+}
+
+.somebody .message{
+    padding: 2px;
+    background-color: orange;
+    position: relative;
+    right: 246px;
+    bottom:93px;
+    height: 20px;
+}
+
+.somebody .location{
+    padding: 2px;
+    background-color: orange;
+    position: relative;
+    right: 22px;
+    bottom: 90px;
+    height: 20px;
+}
+
+.somebody .upon{
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+    background-color: white;
+    position: relative;
+    left: 200px;
+    top: 90px;
+    height: 25px;
+}
+
+
+
+footer {
+    position: relative;
+    top: 60px;
+    text-align: center;
+    width: 100%;
+}
+
+
+@media screen and (max-width: 480px) {
+    body {
+        width: 100%;
+    }
+    .image-one {
+        height: 80px;
+        background-color: blue;
+        color: white;
+    }
+    
+    .image-one .fa-phone {
+        position: relative;
+        left: 10px;
+        top: 8px;
+    }
+    
+    .image-one p {
+        width: 50%;
+        position: relative;
+        bottom: 15px;
+        left: 30px;
+    }
+    
+    
+    .icon {
+        position:absolute;
+        left: 70%;
+        top: 8px;
+       
+    } 
+    
+    .icon .fa-brands {
+        position: relative;
+        right: 15px;
+        border: 2px solid white;
+        border-radius: 50px;
+        background-color: white;
+        color: black;
+    }
+    
+
+    .two {
+        width: 100%;
+        height: 80px;
+    }
+    
+    .two img{
+        position: absolute;
+        left: 0px;
+        top: 5px;
+    }
+    
+    .two .two-one {
+        position: absolute;
+        left: 53.20%;
+        top: 10%;
+        background-color: none;
+    }
+    
+    .two .navbar-brand img {
+        width: 50%  ;
+        height: 70px;
+    }
+    
+    .two .collapse {
+        white-space: nowrap;
+        font-size: 17px;
+        color: black;
+        position: absolute;
+        left: 60%;
+        height: 230%;
+        bottom: -75%;
+    }
+    
+    .two .btn {
+        white-space: nowrap;
+        position: absolute;
+        left: 400px;
+        height: 40px;
+        top: 30px;
+    }
+    
+    
+    .two .collapse .one{
+        color: black;
+        position: absolute;
+        right: 90px;
+    
+    }
+    
+    .two .collapse .two {
+        color: black;
+        position: absolute;
+        right: 40px;
+    }
+    
+    .two .collapse .three {
+        color: black;
+        position: absolute;
+        left: 65px;
+    }
+    
+    .two .collapse .four {
+        color: black;
+        position: absolute;
+        left: 200px;
+    }
+    
+    .two .collapse .five {
+        color: black;
+        position: absolute;
+        left: 280px;
+    }
+
+
+    .three {
+        width: 100%
+    }
+    
+    .carousel {
+        width: 100%;
+        color: red;
+        position: relative; 
+        top: 35px; 
+    
+    }
+    
+    .carousel-indicators .active {
+        background-color:  red;
+    }
+    
+    .carousel-indicators .activeone {
+        background-color:  red;
+    }
+    
+    .carousel-indicators .activetwo {
+        background-color:  red;
+    }
+    
+    
+    .carousel-indicators .activethree {
+        background-color:  red;
+    }
+    
+
+    .four {
+        width: 100%;
+        position: relative;
+        height: 600px;
+    }
+    
+    .four h2 {
+        text-align: center;
+       color: blue;
+       width: 50%;
+       position: relative;
+       left: 25%;
+       top: 50px;
+    }
+    
+    .four .container {
+        position: relative;
+        top: 100px;
+    }
+    .four img {
+        background-color: rgba(0, 89, 255, 0.212);
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 100px;
+        height: 170px;
+        position: relative;
+        left: 120px;
+    }
+    
+    .four p {
+        font-size: 15px;
+        position: relative;
+        left: 160px;
+    }
+    
+    .four .a {
+        font-size: 30px;
+        position: relative;
+        left: 140px;
+    }
+    
+    .four .b {
+        position: relative;
+        left: 15px;
+    }
+    
+    
+    .four .c {
+        position: relative;
+        left: 18px;
+    }
+    
+    
+    .four .d {
+        position: relative;
+        left: 37px;
+    }
+    
+    .four .badge {
+        position: relative;
+        left: 150px;
+        bottom: 10px;
+    } */ 
+
+    /* .four .gold-two {
+        position: relative;
+        bottom: 238px;
+        left: 270px;
+    } */
+
+
+    /* .five {
+        position: relative;
+        width: 97%;
+        height: 650px;
+    }
+    
+     .five img {
+        width: 100%;
+    }
+    
+    
+     .five h4{
+        color: blue;
+        position: relative;
+        top: 100px;
+        left: 10%;
+        width: 50%;
+    }
+    
+     .five p {
+        position: relative;
+        top: 20%;
+        left: 10%;
+        width: 96%;
+    }
+    
+    .five .btn {
+        position: relative;
+        left: 10%;
+        top: 20%;
+        background: orange;
+    }
+    
+
+    .allow {
+        position: relative;
+        top: 45px;
+    }
+    
+    .six {
+        width: 100%;
+        background-color: rgba(0, 89, 255, 0.212);
+        position: relative;
+        height: 425px;
+    }
+    
+    .six img {
+        color:red;
+        width: 80px;
+    }
+    
+    .six h6 {
+        position: relative;
+        bottom: 50px;
+        left: 90px;
+        width: 50%;
+    }
+    
+    .six h4 {
+        text-align: center;
+        position: relative;
+        top: 25px;
+        color: blue;
+    }
+    
+    .six p {
+        position: relative;
+        bottom: 60px;
+        left: 90px;
+        width: 72%;
+    }
+    
+    .six .badge-one {
+        width: 100px;
+        color: blue;
+    }
+    
+
+    .seven h1 {
+        color: rgba(0, 0, 0, 0.123);
+    }
+    
+    
+    
+    .seven {
+        width: 90%;
+        position: relative;
+        height: 600px;
+        top: 80px;
+    }
+    
+    .seven h3 {
+        text-align: center;
+        color: blue;
+    }
+    
+    .seven h4 {
+        text-align: center;
+    } 
+    
+    .seven .i {
+        border-radius: 5px;
+        padding: 5px;
+        position: relative;
+        height: 12%;
+        width: 14%;
+        left: 60%;
+        bottom: 14%;
+        background-color: orange;
+    }
+    
+    .seven img {
+        position: relative;
+        width: 100%;
+        bottom: 20px;
+    }
+    
+    .seven .down {
+        position: relative;
+        top: 35px;
+    }
+    
+    
+    .seven h5 {
+        position: relative;
+        bottom: 40px;
+        color: blue;
+    }
+    
+    .seven small {
+        position: relative;
+        bottom: 45px;
+    }
+
+    
+.eight {
+    width: 97%;
+}
+
+
+.eight img {
+    width: 200%;
+}
+
+.eight h5 {
+    position: relative;
+    bottom: 55%;
+}
+
+.eight ul {
+    position: relative;
+    bottom: 55%;
+}
+
+
+.eight .inter {
+    color: white;
+    position: relative;
+    top: 40px;
+    right: 8%;
+}
+
+.eight .btn {
+    color: white;
+    background-color: orange;
+}
+
+
+.nine {
+    width: 100%;
+    position: relative;
+    bottom: 100px;
+}
+
+
+.nine img {
+    width: 19%;
+    position: relative;
+    top: 20px;
+}
+
+.nine .import {
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 15px;
+}
+
+.nine-smooth h1 {
+    color: blue;
+    text-align: center;
+}
+
+.ten {
+    width: 100%;
+}
+
+.ten-twenty img {
+    width: 100%;
+}
+
+.ten-twenty .image {
+    background-color: none;
+    width: 5%;
+    position: relative;
+    left: 93.5%;
+    bottom: 290px;
+}
+
+.ten .s {
+    background-color: white;
+    border-radius: 12px;
+    padding: 100px;
+    height: 50px;
+}
+
+.ten .t {
+    border-radius: 12px;
+    background-color: white;
+    padding: 100px;
+    height: 50px;
+}
+
+.ten .k {
+    border-radius: 12px;
+    background-color: white;
+    padding: 100px;
+    height: 50px;
+}
+
+.s img {
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+    right: 85px;
+}
+
+.t img {
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+}
+
+.k img {
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+}
+
+.k h6 {
+    color: black;
+}
+
+.ten .with {
+    position: relative;
+    bottom: 290px;
+    width: 100%;
+}
+
+.ten h6 {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.s small {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.t small {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+.k small {
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+}
+
+
+.elhavn {
+    width: 100%;
+    background-color: rgb(0, 102, 255);
+    position: relative;
+    bottom: 50px;
+    height: 450px;
+}
+
+.elhavn .somebody {
+    color: white;
+    position: relative;
+    top: 50px;
+}
+
+.somebody .number{
+    padding: 2px;
+    background-color: orange;
+    position: relative;
+    right: 222px;
+    bottom: 120px;
+    height: 20px;
+}
+
+.somebody .message{
+    padding: 2px;
+    background-color: orange;
+    position: relative;
+    right: 246px;
+    bottom:93px;
+    height: 20px;
+}
+
+.somebody .location{
+    padding: 2px;
+    background-color: orange;
+    position: relative;
+    right: 22px;
+    bottom: 90px;
+    height: 20px;
+}
+
+.somebody .upon{
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+    background-color: white;
+    position: relative;
+    left: 200px;
+    top: 90px;
+    height: 25px;
+}
+
+
+
+footer {
+    position: relative;
+    top: 60px;
+    text-align: center;
+    width: 100%;
+}
+
+
+    
+}
+
+
+@media screen and (max-width: 768px) {
+    
+
+}
+
+
+@media screen and (max-width: 992px) {
+    
+}
+
+
+@media screen and (max-width: 1280px) {
+    
+} */ 
+
+
+
+
+
+
+
+
+
+  
